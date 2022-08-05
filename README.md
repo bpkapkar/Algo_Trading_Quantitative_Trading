@@ -1,4 +1,4 @@
-# awesome-quant
+# Awesome-Quant
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
